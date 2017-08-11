@@ -1,0 +1,16 @@
+{
+  "name": "nodeandcanvasgame",
+  "version": "1.0.0",
+  "description": "This is a web browser game that I have created to show that I know how to use the HTML5 Canvas, Socket.IO, and express.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah D Chatelain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.3"
+  }
+}
